@@ -6,5 +6,3 @@ contact = {
 
 # Your code here
 
-for key, value in contact.items():
-    print(f"{key}: {value}")
