@@ -11,8 +11,4 @@ tasks = [
 
 
 # Your code here
-def remove_undone_tasks(task):
-    return task["done"] == True
 
-done_tasks = list(filter(remove_undone_tasks, tasks))
-print(done_tasks)
